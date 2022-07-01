@@ -2,10 +2,8 @@
 
 <img src="https://img.shields.io/badge/MySQL-4D9EB1?style=for-the-badge&logo=mysql&logoColor=white">
 
-> Curso de Introducción a las Bases de datos |    
-> Martes y Jueves de 14hs a 16hs |    
-> Código 59848 |    
-> sensei: Marcos Pinardi |
+
+>***************** sensei: Marcos Pinardi | **********
 
 ## Base de datos
 
